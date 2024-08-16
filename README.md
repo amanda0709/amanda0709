@@ -1,5 +1,6 @@
-## Hi there 👋
-
+### Bem vindo ao meu perfil 🩷
+## meu nome é Amanda de Souza
+***
 <!--
 **amanda0709/amanda0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
